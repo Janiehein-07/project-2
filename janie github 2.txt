@@ -2,3 +2,4 @@ numbers = [0, 1, 2, 3, 4]
 squares = [num ** 2 for num in numbers]
 print("Original numbers:", numbers)
 print("Squares:", squares)
+print("katrunya")
